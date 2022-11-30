@@ -6,7 +6,7 @@ This design is created for showing interest in UI designing.
 
 ![License](https://img.shields.io/github/license/yashkolte/UIDesign.svg)
 
-<img src="./assets/readme/readme.png" />
+<img src="./Assets/readme/readme.png" />
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_github-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/yashkolte)
@@ -17,7 +17,7 @@ This design is created for showing interest in UI designing.
 
 ## Developer
 <div align="left">
-<img src="./assets/readme/DP.png" width="80px;" alt=""/><br /><sub><b>Yash Kolte</b></sub></a><br /><br />
+<img src="./Assets/readme/DP.png" width="80px;" alt=""/><br /><sub><b>Yash Kolte</b></sub></a><br /><br />
 
 ## Feedback
 
