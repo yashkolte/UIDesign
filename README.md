@@ -27,7 +27,7 @@ If you have any feedback, please reach out to us at yashkolte9@gmail.com
 
 Design is inspired from dribbble
 
-Thanks to '<i> Offriginal Madrid </i>' for this awesome design.
+Thanks to '<i> Masud Rana </i>' for this awesome design.
 
 ## Support
 
