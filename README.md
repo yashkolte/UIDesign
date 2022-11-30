@@ -6,7 +6,6 @@ This design is created for showing interest in UI designing.
 
 ![License](https://img.shields.io/github/license/yashkolte/UIDesign.svg)
 
-
 <img src="./assets/readme/readme.png" />
 
 ## 🔗 Links
